@@ -4,7 +4,7 @@
 
 I study CS @ Tufts University. I like to solve problems and build stuff.
 
-Currently building: https://www.sublettr.homes/
+Currently building: https://www.subletr.com/
 
 I also love Star Trek
 
