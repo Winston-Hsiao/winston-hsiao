@@ -8,10 +8,10 @@ Currently a software engineer at [Drumkit](https://www.drumkit.ai/) (building an
 
 ---
 
-If you're a student check out Subletr a platform for short term student housing that I made while in college.
+If you're a student check out Subletr a platform for short term housing that I built and grew while in college.
 
 ### Check out [www.subletr.com](https://www.subletr.com/)
 
-A marketplace and data platform for short term housing serving 800+ students at colleges around the United States. I started building it after my off-campus house burned down my sophomore year of college.
+A marketplace and data platform for short term housing serving 1000+ students at colleges around the United States. I started building it after my off-campus house burned down my sophomore year of college.
 
 </div>
